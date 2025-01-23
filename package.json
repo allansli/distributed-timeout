@@ -1,5 +1,5 @@
 {
-  "name": "amqp-poc-saque",
+  "name": "distributed-timeout",
   "version": "1.0.0",
   "description": "",
   "main": "producer-amqp.js",
