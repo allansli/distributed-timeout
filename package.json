@@ -1,0 +1,20 @@
+{
+  "name": "amqp-poc-saque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "producer-amqp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.726.1",
+    "@azure/service-bus": "^7.9.5",
+    "amqp-connection-manager": "^4.1.14",
+    "amqplib": "^0.10.5",
+    "aws-sdk": "^2.1692.0",
+    "ioredis": "^5.4.2",
+    "uuid4": "^2.0.3"
+  }
+}
